@@ -1,6 +1,6 @@
 # ProjetoWeb
 
-Tema: Música
+Tema: Site de Música
 
 Objetivo: Um site que semanalmente recomendaria músicas de diferentes tipos para os usuários, além de ter a possibilidade de se explorar mais sobre o mundo da música.
 
