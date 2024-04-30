@@ -4,7 +4,9 @@
 
 <b>Objetivo:</b> Um site que semanalmente recomendaria músicas de diferentes tipos para os usuários, além de ter a possibilidade de se explorar mais sobre o mundo da música.
 
-<b>Nome:</b> Trackie 
+<b>Nome:</b> Trackie
+
+Logo e banner criados por mim. :)
 
 Design (Figma)
 --
