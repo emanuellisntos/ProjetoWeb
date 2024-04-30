@@ -8,8 +8,8 @@
 
 Logo e banner criados por mim. :)
 
-Design (Figma)
---
+<h2>Design (Figma)</h2>
+
 <b>Página Home</b>
 
 Página Home com o banner principal e a recomendação semanal de músicas (onde será aplicado um <iframe> do [Spotify](https://open.spotify.com/intl-pt)).
@@ -47,10 +47,10 @@ Página de Contato com um formulário (que no momento não receberá respostas),
 
 ---
 
-<b>Paleta de cores
+<b>Paleta de cores</b>
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/c49ed332-b9fc-428c-9981-f64ac3fb4995)
 
-Fontes usadas
+<b>Fontes usadas</b>
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/5123885d-be16-4a08-8d8e-f98451017bd3)
 
 ---
