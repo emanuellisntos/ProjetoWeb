@@ -16,11 +16,16 @@ Página Home com o banner principal e a recomendação semanal de músicas (onde
 
 
 <b>Página Explorar</b>
-![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/7c4281e9-f606-4e7c-bec6-b98d5b2f2c74)
 
 Página Explorar onde o usuário poderá explorar mais artistas, álbuns, gêneros músicais, etc (independente da página, o botão Explorar (localizado no menu de navegação) será em efeito <b>dropdown</b>, mostrando os tópicos da página e também dando acesso às páginas Eventos e Gêneros Musicais).
 
+![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/7c4281e9-f606-4e7c-bec6-b98d5b2f2c74)
+
+
 <b>Página Gêneros Musicais</b>
+
+Página Gêneros Musicais que mostrará os gêneros recomendados da semana e artistas sugeridos de cada gênero.
+
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/d59b8f2d-63b0-4a6d-8b0b-013094886156)
 
 <b>Página Eventos Musicais</b>
