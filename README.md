@@ -9,7 +9,7 @@ Nome: Trackie
 Design (Figma)
 --
 <b>Página Home
-![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/f6d24480-6d35-44fb-b860-454eac0caf1f)
+![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/26f4eb55-6070-48dd-93d9-70ed4aa0ce1c)
 
 Página Explorar
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/7c4281e9-f606-4e7c-bec6-b98d5b2f2c74)
@@ -18,7 +18,7 @@ Página Gêneros Musicais
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/d59b8f2d-63b0-4a6d-8b0b-013094886156)
 
 Página Eventos Musicais
-![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/65c8b579-286b-45f2-8b73-a441f686a975)
+![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/4f34eabb-14a0-47aa-9393-f68db06d344a)
 
 Página Contato</b>
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/b773977c-1985-4637-85ce-6279f66949f6)
