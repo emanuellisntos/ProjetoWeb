@@ -1,10 +1,10 @@
 # ProjetoWeb
 
-Tema: Site de Música
+<b>Tema:</b> Site de Música
 
-Objetivo: Um site que semanalmente recomendaria músicas de diferentes tipos para os usuários, além de ter a possibilidade de se explorar mais sobre o mundo da música.
+<b>Objetivo:</b> Um site que semanalmente recomendaria músicas de diferentes tipos para os usuários, além de ter a possibilidade de se explorar mais sobre o mundo da música.
 
-Nome: Trackie 
+<b>Nome:</b> Trackie 
 
 Design (Figma)
 --
