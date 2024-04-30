@@ -8,6 +8,8 @@
 
 Logo e banner criados por mim. :)
 
+<br>
+
 <h2>Design (Figma)</h2>
 
 <b>Página Home</b>
@@ -16,6 +18,7 @@ Página Home com o banner principal e a recomendação semanal de músicas (onde
 
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/26f4eb55-6070-48dd-93d9-70ed4aa0ce1c)
 
+<br>
 
 <b>Página Explorar</b>
 
@@ -23,6 +26,7 @@ Página Explorar onde o usuário poderá explorar mais artistas, álbuns, gêner
 
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/7c4281e9-f606-4e7c-bec6-b98d5b2f2c74)
 
+<br>
 
 <b>Página Gêneros Musicais</b>
 
@@ -30,14 +34,15 @@ Página Gêneros Musicais que mostrará os gêneros recomendados da semana e art
 
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/d59b8f2d-63b0-4a6d-8b0b-013094886156)
 
+<br>
+
 <b>Página Eventos Musicais</b>
 
 Página Eventos Musicais que mostrará eventos musicais para os usuários, além de um mapa (com <iframe> do [Google Maps](https://www.google.com.br/maps/preview)) para o usuário poder localizar eventos próximos a ele.
 
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/4f34eabb-14a0-47aa-9393-f68db06d344a)
 
-
-
+<br>
 
 <b>Página Contato</b>
 
@@ -48,9 +53,13 @@ Página de Contato com um formulário (que no momento não receberá respostas),
 ---
 
 <b>Paleta de cores</b>
+
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/c49ed332-b9fc-428c-9981-f64ac3fb4995)
 
+<br>
+
 <b>Fontes usadas</b>
+
 ![image](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/5123885d-be16-4a08-8d8e-f98451017bd3)
 
 ---
@@ -63,9 +72,13 @@ Artista
 
 ![7](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/cbfe89f3-8a97-4e04-909c-da713f3c3d4b)
 
+<br>
+
 Álbum
 
 ![6](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/a28b8d5b-b102-4eba-b3e7-fec4d0871bbd)
+
+<br>
 
 Música
 
