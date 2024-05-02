@@ -85,6 +85,8 @@ Música
 
 ![5](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/d8a5b676-e859-452b-a5d4-2f4c2be21ace)
 
+<br>
+
 <b>Imagens da página de Eventos por:</b>
 
 <a href="https://unsplash.com/pt-br/@adityachinchure">Aditya Chinchure</a>
