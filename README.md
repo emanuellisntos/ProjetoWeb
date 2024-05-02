@@ -84,3 +84,22 @@ Artista
 Música
 
 ![5](https://github.com/emanuellisntos/ProjetoWeb/assets/99870160/d8a5b676-e859-452b-a5d4-2f4c2be21ace)
+
+<b>Imagens da página de Eventos por:</b>
+
+<a href="https://unsplash.com/pt-br/@adityachinchure">Aditya Chinchure</a>
+
+<a href="https://unsplash.com/pt-br/@vishnurnair">Vishnu R Nair</a>
+
+<a href="https://unsplash.com/pt-br/@dannyhowe">Danny Howe</a>
+
+<a href="https://www.pexels.com/@sebastian-ervi-866902/">Sebastian Ervi</a>
+
+<a href="https://www.pexels.com/@wendywei/">Wendy Wei</a>
+
+<a href="https://www.pexels.com/@chad-kirchoff-346647/">Chad Kirchoff</a>
+
+<a href="https://www.pexels.com/@jackgittoes/">Jack Gittoes</a>
+
+<a href="https://www.pexels.com/pt-br/@apasaric/">Aleksander Pasaric</a>
+  
