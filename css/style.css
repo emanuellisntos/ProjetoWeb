@@ -1,0 +1,170 @@
+*{margin: 0; padding: 0;}
+
+.header__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__nav li {
+    display: inline;
+    position: relative;
+    margin: 35px; 
+}
+
+.header__nav a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+}
+
+.header__nav a:hover {
+    color: #DC2626;
+    transition: 0.5s;
+}
+
+
+.header__nav-menu {
+    margin-right: 50px;
+}
+
+.header__nav li ul {
+    position: absolute;
+    top: 100%; 
+    left: 0;
+    background-color: #fff;
+    display: none;
+}
+
+.header__nav li:hover ul {
+    display: block;
+    margin-left: -37px;
+    border-radius: 5px;
+}
+
+.header__nav li ul li {
+    justify-content: center;
+    display: block;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+
+#header__logo {
+    width: 200px;
+    height: 70px; 
+}
+
+main {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main__section-banner { 
+    height: 320px; 
+    background-image: url(../img/banner-index/banner.svg);
+    background-size: cover;
+    background-position:center;
+}
+
+.main__section-recommendation  {
+    margin: 50px 50px;
+    margin-top: 70px;
+}
+
+.main__section-recommendation h1 {
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.main__section-recommendation h3 {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.main__section-recommendation-iframe {
+    margin-top: 30px;
+    
+}
+
+.footer {
+    background-color: #DC2626;
+    color: #fff;
+    padding: 10px;
+}
+
+.footer__nav {
+    text-align: center;
+}
+
+.footer__nav li {
+    display: inline-block;
+    margin: 0 10px;  
+}
+
+.footer__nav a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1,5px;
+}
+
+.footer__nav p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1,5px;
+    margin-bottom: 40px;
+}
+
+.footer__nav-socials {
+    margin: 40px;
+}
+
+.footer__nav-socials .footer__nav-socials-item {
+    width: 50px; /* Ajuste conforme necessário */
+    height: 50px; /* Ajuste conforme necessário */
+    border-radius: 50%; /* Usando 50% para criar um círculo */
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__nav-socials .footer__nav-socials-item svg {
+    width: 27px;
+    height: 27px;
+}
+
+/* Configurando as bolinhas entre cada item li do footer nav */
+
+.footer__nav-links-top ul li,
+.footer__nav-links-bottom ul li {
+    position: relative;
+}
+
+.footer__nav-links-top ul li:not(:last-child)::after,
+.footer__nav-links-bottom ul li:not(:last-child)::after {
+    color: #DF9E9E;
+    content: "\2022"; /* Código unicode para uma bolinha */
+    position: absolute;
+    right: -15px; /* Ajuste a posição horizontal conforme necessário */
+    top: 50%; /* Ajuste a posição vertical conforme necessário */
+    transform: translateY(-50%);
+}
+
+/* Configurando as bolinhas entre cada item li do footer nav */
+
+.footer__nav-links-top, .footer__nav-links-bottom {
+    margin-bottom: 20px;
+}
